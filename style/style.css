@@ -30,7 +30,7 @@ body{
     height: 100vh;
     min-height: 600px;
     max-height: 900px;
-    background-image: url("../assets/home/abstract-1238247_1920.jpg");
+    background-image: url("../assets/home/abstract-1238247_1920.webp");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -174,7 +174,7 @@ span{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url("../assets/about/restaurant-5107519_1920.jpg");
+    background: url("../assets/about/restaurant-5107519-1920.webp");
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
