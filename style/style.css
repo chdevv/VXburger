@@ -393,6 +393,10 @@ span{
 i{
     cursor: pointer;
 }
+.icon-footer{
+    cursor: pointer;
+    width: 3.2rem;
+}
 .contact-c_group{
     width: 90%;
     display: flex;
