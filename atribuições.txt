@@ -190,9 +190,14 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
 
 
 
-
 Uso de Alguns icones FontAwesome
 link para a <a href="https://fontawesome.com/license/free">licença</a>.
+
+
+
+
+
+
 
 The MIT License (MIT)
 
